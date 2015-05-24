@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/lineheight",
+  "description": "CKEditor 4 lineheight plugin",
+  "keywords": ["ckeditor", "plugin", "lineheight"],
+  "homepage": "https://github.com/lotusgodkk/lineheight",
+  "bugs": {
+    "url": "https://github.com/lotusgodkk/lineheight/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotusgodkk/lineheight.git",
+    "directory": "plugins/lineheight"
+	}
+}
